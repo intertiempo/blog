@@ -1,0 +1,19 @@
+body {
+  background-color: #738585;
+ }
+.container {
+	background-color: #fff9ee;
+	margin-top: 20px;
+}
+.mx-auto{
+	margin-top: 0px;
+}
+h1{
+	background-color: #d0bb71;
+	color: white;
+}
+.hero-image {
+  background-image: url("bioshock-infinite-bioshock-lighthouse-hd-1080P-wallpaper.jpg");
+  height: 500px;
+  background-repeat: no-repeat;
+}
